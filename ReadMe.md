@@ -5,7 +5,7 @@
 
 <h3 align="center">Code-Books</h3>
 
-<p align="center"> Few lines describing your project.
+<p align="center"> A compilation of Code related books I have accummalated during my journey in Code and Design.
     <br> 
 </p>
 
@@ -39,9 +39,25 @@ Write about 1-2 paragraphs describing the purpose of your project.
   - html5_poster.pdf
   - htmlcss1.pdf
   - htmlemail1pdf.pdf
+  - javascript1pdf.pdf
+  - jquery1pdf.pdf
+  - jshtml-basics1.pdf
+  - jsjavascript1.pdf
+  - jsphp1.pdf
+  - nodejs1.pdf
+  - outsourcing2.pdf
+  - phpant4pdf.pdf
+  - phpmysql4pdf.pdf
+  - phppro1pdf.pdf
+  - Rails_Deep_Dive.pdf
+  - responsive1.pdf
+  - sexy1pdf.pdf
+  - ux1pdf.pdf
+  - wdbk3-sample.pdf
 
 
 - JavaScript Teacher
+   - cssvisualdictionary2ND
 
 
 ---
