@@ -11,7 +11,7 @@
 
 ## 📝 Table of Contents
 - [About](#about)
-- [Authors](#authors)
+- [Books](#books)
 - [Acknowledgments](#acknowledgement)
 
 ---
@@ -57,16 +57,22 @@ Write about 1-2 paragraphs describing the purpose of your project.
 
 
 - JavaScript Teacher
-   - cssvisualdictionary2ND
+   - cssvisualdictionary2ND.pdf
+   - html-intuitive-guide-I.pdf
+   - javascriptgrammar-dark.pdf
+   - javascriptgrammar-II.pdf
+   - jquery-gems-v1-64.pdf
+   - node-I.pdf
+   - pythongrammar-I-dark-mode.pdf
+   - pythongrammar-I.pdf
+   - webgl-gems-standard-I-final.pdf
 
 
 ---
 
 
-
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- https://www.sitepoint.com
+- Twitter: @javascriptual Greg Sidelnikov (greg.sidelnikov@gmail.com)
 
 
